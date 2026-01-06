@@ -63,11 +63,11 @@ There will be one set of homework problems each week for each section. If you ma
 
 There are 10 weeks of instruction. Links to lecture recordings will appear in this table. Weekly problem sets are assigned each week and due the next week. Late work is always acceptable. But keeping up is in your own interest.
 
-There is a set of recorded lectures from 2023 that might also be of use, either as a supplement to in-person lectures or for review. Full lecture playlist: <[Statistical Rethinking 2023 Playlist](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)>
+The new lectures for 2026 will appear as links in the table below. There is a set of recorded lectures from 2023 that might also be of use, either as a supplement to in-person lectures or for review. Full lecture playlist: <[Statistical Rethinking 2023 Playlist](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)>
 
 | Week ## | Meeting date | Section | Topic | Reading |
 | ------- | ----------- | ---------- | ------------------------- | ------------|
-| 01 | 6 January | Beginner | Introduction | Chapters 1 & 2 
+| 01 | 6 January | Beginner | <[Introduction](https://www.youtube.com/watch?v=ztbYkBPDOgU)> | Chapters 1 & 2 
 |    | 9 January | Experienced | Multilevel Models | Chapter 12 
 | 02 | 13 January | Beginner | Garden of Forking Data | Chapters 2 & 3
 |    | 16 January | Experienced | Adventures in Covariance | Chapter 13 
