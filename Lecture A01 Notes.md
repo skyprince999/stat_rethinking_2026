@@ -39,9 +39,24 @@ We start from the left where we start with Generative models (_model that genera
 - Imputation view of causal inference -- is that we may be able to guess what would have happened if things would have been different
 - Explanatory version ::: is *why* something happened
 
-*Prediction example of causal inference* 
+*Causal Prediction* 
 when trees blow in the wind we know that its because of the moving air. We are not understanding the mechanisms of why it moves (fluid mechanics) BUT the consequence  of moving air (wind) is causing the trees to move 
+Here we know what causes something to happen. 
 
+*Causal Imputation*
+- If we understand the system and the causes -- we can impute counterfactual outcomes 
+- Things that did not happen, but what if it happened then what could be the outcome
+- this is closely related to intervenist view -- which is forward projection, vs imputation which is backward projection 
+
+*Causal Explaination*
+- explain past events
+- _why did some event happen_ why did the glaciers retreat 
+
+*Causal Interventionist*
+
+  
+###Statistical Model 
+- Extracts information from a sample 
 
 
 - Bayesian vs Frequentism :: Bayseian has prevailed
