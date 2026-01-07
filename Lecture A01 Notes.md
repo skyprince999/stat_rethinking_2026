@@ -16,5 +16,15 @@ https://www.youtube.com/watch?v=ztbYkBPDOgU
 
 
 
+- Prior model checking: to check if the model is correct before its modeled , scientific sense
+- Posterior model checking: to check after the model has been created . After the data has been "fitted"
+- Parameter estimation:
+  
+           - marginal effects (statistical averaging)
+           - casual error estimation
+           - sensitivity analysis
+
+- 
+
 
 - Bayesian vs Frequentism :: Bayseian has prevailed
