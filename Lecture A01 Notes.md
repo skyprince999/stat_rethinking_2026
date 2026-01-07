@@ -121,4 +121,15 @@ Test your code with extreme inputs/_settings/edgecases_ p=1, p=0.5 etc..
 Garden of Forking data
 
 <img src="homework/garden of observation data.jpg" alt="Alt text" width="50%" height="auto">
-  
+
+Relative possibilities of the data. (_posterior distribution_)
+
+- Things that can happen more ways are MORE plausible
+
+
+Updating data with new throw of the dice -- Very intutive way of calculating the updation, w/o having to draw the entire _garden of forking data_ !!! 
+
+<img src="homework/updating_data.jpg" alt="Alt text" width="50%" height="auto">
+
+
+
