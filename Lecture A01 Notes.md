@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=ztbYkBPDOgU
 
 We start from the left where we start with Generative models (_model that generates synthetic data_) and Estimands (_which is what you want to find_) Estimands can be causal estimands. 
 
-###Causal Inference
+### Causal Inference
 - Causal inference in Data Science/ML has a very narrow meaning -- _mechanistic_ 
 - In statistical it is a specific form of prediction which is the cause of intervention in a system
 - Imputation view of causal inference -- is that we may be able to guess what would have happened if things would have been different
@@ -55,8 +55,14 @@ Here we know what causes something to happen.
 *Causal Interventionist*
 
   
-###Statistical Model 
+### Statistical Model 
 - Extracts information from a sample 
 
 
-- Bayesian vs Frequentism :: Bayseian has prevailed
+Bayseian models are generative. But realistic analysis involves measurement error, missing data, latent variables and regularizations 
+- Bayesian vs Frequentism :: Bayseian has prevailed, there are no stats wars!
+
+The real battle is scientific modeling 
+
+
+  
