@@ -64,5 +64,60 @@ Bayseian models are generative. But realistic analysis involves measurement erro
 
 The real battle is scientific modeling 
 
+Statistical modeling requires a lot of complex workflows. But the good practice is to always start with simpler models. Comparing simpler models with the final model helps us understand how these models work. 
 
+- start with the basics. interesting analogy of drawing an owl from starting with drawing circles
+- you are first starting with a scaffolding
+- building ladders that you will climb
+
+
+### How to take a sample from a population 
+- How should we use a sample
+- How to produce a summary
+- How to represent uncertainity
+
+Process of Bayseian updates (as new samples come in, how does the density graph shift) -- distribution assumptions being that its normal 
+
+*Example of calculating the proportion of the Earth thats covered with water* 
+- Generative model: Is a globe tossing model, which randomly generates a point on the globe and checks if its land or water
+- Estimand: The question which we are trying to answer: _Proportion covered with water_ 
+- Assumption: is that each sample is random and not correlated in any way
+
+### Globe Toss Function 
+
+In R language 
+```
+sim_globe <- function( p=0.7, N=9) {
+sample( c("W", "L"), size=N, prob=c(1, 1-p), replace=TRUE) 
+}
+```
+
+Converted to Python
+```
+import random
+
+def sim_globe(p=0.7, N=9):
+    """
+    Simulate tossing a globe N times.
+    
+    Parameters:
+        p (float): Probability of water ('W')
+        N (int): Number of tosses
+    
+    Returns:
+        list: Sequence of 'W' and 'L'
+    """
+    return random.choices(
+        population=["W", "L"],
+        weights=[p, 1 - p],
+        k=N
+    )
+
+```
+
+Test your code with extreme inputs/_settings/edgecases_ p=1, p=0.5 etc.. 
+
+
+Garden of Observation data
+<img src="homework/garden of observation data.jpg" alt="Alt text" width="50%" height="auto">
   
