@@ -118,6 +118,7 @@ def sim_globe(p=0.7, N=9):
 Test your code with extreme inputs/_settings/edgecases_ p=1, p=0.5 etc.. 
 
 
-Garden of Observation data
+Garden of Forking data
+
 <img src="homework/garden of observation data.jpg" alt="Alt text" width="50%" height="auto">
   
