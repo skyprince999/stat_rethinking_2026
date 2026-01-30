@@ -60,6 +60,7 @@ This makes our predictions uncertain (probs)
 
 Uncertainty --> Generative Model --> Implications 
 
+<img src="homework/posterior_predictive.jpg" alt="Uncertainity samples" width="50%" height="auto">
 
 
 
