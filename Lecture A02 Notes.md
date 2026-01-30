@@ -53,6 +53,14 @@ probability mass : is the integral of a set of probability densities.
 - The interval communicates the shape of the posterior and there is not true interval (50%, 95% or 99%)
 
 
+Implications of a model depend upong the entire posterior (this requires integral -- simulations etc. ) 
+But we just take samples 
+This makes our predictions uncertain (probs) 
+
+
+Uncertainty --> Generative Model --> Implications 
+
+
 
 
 
