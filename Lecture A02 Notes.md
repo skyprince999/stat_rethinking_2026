@@ -40,6 +40,18 @@ for a continous space where p can have any value from 0 to 1 the posterior proba
 
 ```
 
+The constant is the Normalizing Constant :: `(1 + L +1)! / (W! L!)  `
+
+While the relative number of ways to observe the sample is: `[p^W * ( 1-p)^L]  `
+
+
+probability mass : is the integral of a set of probability densities. 
+
+- Bayseian inference requires No minimum sample size. 
+- The shape of the distribution embodies the sample size
+- There are no point estimates.
+- The interval communicates the shape of the posterior and there is not true interval (50%, 95% or 99%)
+
 
 
 
