@@ -17,3 +17,7 @@ This is what linear regression IS. It may not be scientifically correct. But it 
 <he is wrong that science of grinding lenses is now an open secret. Its done by a single company in China. Which ships across the World!> 
 
 
+error in observation of a telescope is constant in all directions 
+
+
+
